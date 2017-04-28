@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alex/projects/opengl_0/build",
+  "command": "/usr/bin/c++     -std=c++11 --pedantic-errors -Wall -Wextra -g   -o CMakeFiles/opengl_0.dir/main.cpp.o -c /home/alex/projects/opengl_0/main.cpp",
+  "file": "/home/alex/projects/opengl_0/main.cpp"
+}
+]
